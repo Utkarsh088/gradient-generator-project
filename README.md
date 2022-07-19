@@ -14,7 +14,7 @@ This is simple Gradient Generator made using JavaScript
 
 ## How to Open the Project
 
-1) Fork the repository (aka make a copy)
+1) Fork the repository 
 
 
 2) Go to the command line and clone the project
